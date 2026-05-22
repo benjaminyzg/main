@@ -1,0 +1,40 @@
+name: W&B Hyperparameter Sweep
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  run-sweep:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: |
+        pip install wandb torch torchvision
+
+    - name: Initialize Sweep and Run Agent
+      env:
+        WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
+      run: |
+        # 1. Initialize the sweep on W&B servers and capture the output
+        SWEEP_OUTPUT=$(wandb sweep sweep.yaml 2>&1)
+        echo "$SWEEP_OUTPUT"
+        
+        # 2. Extract the generated Sweep ID using regex pattern match
+        SWEEP_ID=$(echo "$SWEEP_OUTPUT" | grep -oE "Created sweep with ID: [a-zA-Z0-9]+")
+        SWEEP_ID=${SWEEP_ID##*: } # Strip everything up to the actual ID string
+        
+        echo "Successfully generated Sweep ID: $SWEEP_ID"
+        
+        # 3. Start a local agent tied to that ID. 
+        # 'count' prevents the GitHub runner from looping endlessly.
+        wandb agent --count 5 $SWEEP_ID
