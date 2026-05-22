@@ -1,0 +1,30 @@
+name: Test W&B API Key Authentication
+
+on:
+  workflow_dispatch: # Allows you to trigger this test manually from the GitHub UI
+
+jobs:
+  verify-key:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-node-version: '3.10'
+
+      - name: Install W&B CLI
+        run: pip install wandb
+
+      - name: Verify API Key Connection
+        env:
+          WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
+        run: |
+          if [ -z "$WANDB_API_KEY" ]; then
+            echo "ERROR: WANDB_API_KEY is not defined in GitHub Secrets!"
+            exit 1
+          fi
+          # The --verify flag forces the CLI to talk to the server and validate credentials
+          wandb login --verify
