@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - **DevOps**: Docker, Kubernetes, GitHub Actions
 - **Databases**: PostgreSQL, MongoDB, SQLite
 - **Cloud**: AWS, Azure, Google Cloud
+- **ML Framework**: Tensorflow; Pytorch
 - **Knowledge-Base Management**: Confluence; Wiki
 
 ## 📈 GitHub Stats
