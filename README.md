@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
 - 👨‍💻 Working on open-source projects and contributing to the developer community.
 - 🎓 Background in Computer Science and Software Engineering.
-- Area of Interest: Medicine; Computer Science; Health; Capital Market
+- Area of Interest: Medicine; Computer Science; Healthcare; Capital Market
 
 ## 💡 Interests
 - Artificial Intelligence
