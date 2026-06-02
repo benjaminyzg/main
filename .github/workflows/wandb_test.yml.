@@ -3,7 +3,10 @@ name: Test W&B Connection
 on:
   workflow_dispatch: # Allows you to run this test manually from the UI
 
-# Recommended permission for security to allow checking out code
+# Force the GitHub runner to execute Javascript actions using Node 24
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
 permissions:
   contents: read
 
@@ -13,10 +16,10 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v6 # Upgraded from v4 to v6 to resolve Node 20 deprecation
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v6 # Upgraded from v5 to v6 to resolve Node 20 deprecation
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
