@@ -1,0 +1,27 @@
+name: Test W&B Connection
+
+on:
+  workflow_dispatch: # Allows you to run this test manually from the UI
+
+jobs:
+  test-connection:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-python: '3.10'
+
+    - name: Install W&B
+      run: pip install wandb
+
+    - name: Verify W&B Login
+      env:
+        WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
+      run: |
+        # This command attempts to authenticate using the environment variable
+        wandb login
