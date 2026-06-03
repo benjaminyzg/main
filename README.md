@@ -9,9 +9,10 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - Area of Interest: Medicine; Computer Science; Healthcare; Capital Market
 
 ## 💡 Interests
-- Artificial Intelligence
+- Artificial Intelligence (AI)
 - Machine Learning Model (i.e. time-series modelling)
-- Full-Stack Development
+- Full-Stack Development (i.e. Front/Back-End Development)
+- UX/UI Design & Prototyping
 - Open Source Collaboration
 
 ## 🚴 Leisure/Hobbies
