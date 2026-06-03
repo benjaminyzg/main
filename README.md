@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🤿 Scuba Diving (i.e. Recreational)
 - 📖 Reading/Exercising (i.e. Running; Cycling)
 
+## 🗂️ Academic Publications
+
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
 - **Frameworks**: React, Node.js, Django; Rails on Ruby
