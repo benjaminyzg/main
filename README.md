@@ -19,7 +19,7 @@ I build proprietary, domain-specific machine learning models that are applicatio
 ## 🚀 About Me
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
 - 👨‍💻 Working on open-source projects and contributing to the developer community.
-- 🤿 Certified Recreational Scuba Diver
+- 🤿 Certified Recreational Scuba Diver (Open Water/Advanced)
 - 🎓 Background in Computer Science and Software Engineering.
 - 🏴󠁳󠁬󠁷󠁿 Area of Interest: Medicine; Computer Science; Healthcare; Capital Market
 
