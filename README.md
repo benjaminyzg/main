@@ -21,6 +21,10 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 📖 Reading/Exercising (i.e. Running; Cycling)
 - 😴 Sleeping/Resting
 
+## 🪧 Commercial Collaboration
+Looking for commercial collaboration in the area - advisory and consultancy; professional consultancy
+Open to speak for a nominal fee in academia conference and international forums. If you've found my area of research and interests to be useful and would like to engage me for my services
+
 ## 🗂️ Academic Publications
 
 ## 📛 Conferences/Talks
