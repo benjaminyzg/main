@@ -39,7 +39,7 @@ Open to speak for a nominal fee in academia conference and international forums.
 - **Knowledge-Base Management**: Confluence; Wiki
 
 ## 📈 GitHub Stats
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminyzg&show_icons=true&theme=radical)
+![Benjamin's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=benjaminyzg&show_icons=true&theme=radical)
 
 ## 🌐 How to Reach Me
 - 🌐 Website: www.benjaminy.com
