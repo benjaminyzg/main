@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 💡 Interests
 - Artificial Intelligence (AI)
+- Sustainability/Climate Change
 - Machine Learning Model (i.e. time-series modelling)
 - Full-Stack Development (i.e. Front/Back-End Development)
 - UX/UI Design & Prototyping
