@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🛩️ Travelling (i.e. Leisure & Business)
 - 🤿 Scuba Diving (i.e. Recreational)
 - 📖 Reading/Exercising (i.e. Running; Cycling)
-- Hiking
+- 🥾 Hiking
 - 😴 Sleeping/Resting
 
 ## 🪧 Commercial Collaboration
