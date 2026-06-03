@@ -35,8 +35,10 @@ New to github, and I'm trying to figure how to use this platform correctly and a
 - Open to speak for a nominal fee in conference and forum.
 
 ## 🗂️ Academic Publications
+- to be completed - 
 
 ## 📛 Conferences/Talks
+- to be completed - 
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
