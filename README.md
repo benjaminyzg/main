@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - Full-Stack Development
 - Open Source Collaboration
 
-**##** 🚴 **Personal Hobbies**
+## 💡 Leisure/Hobbies
 - 🛩️ Travelling (i.e. Leisure & Business)
 - 🤿 Scuba Diving (i.e. Recreational)
 - 📖 Reading/Exercising (i.e. Running; Cycling)
