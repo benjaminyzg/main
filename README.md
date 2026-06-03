@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 😴 Sleeping/Resting
 
 ## 🪧 Commercial Collaboration
-Looking for commercial collaboration in the area - advisory and consultancy; professional consultancy
-Open to speak for a nominal fee in academia conference and international forums. If you've found my area of research and interests to be useful and would like to engage me for my services
+Looking for commercial collaboration in the domain of machine learning? I provide advisory and consultancy work for government; capital market; healthcare and sustainability.
+Open to speak for a nominal fee in conference and forums. If you've found my area of research and interests to be useful and would like to engage me for my services; do reach out to me.
 
 ## 🗂️ Academic Publications
 
