@@ -21,13 +21,15 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 🗂️ Academic Publications
 
+## 📛 Conferences/Talks
+
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
 - **Frameworks**: React, Node.js, Django; Rails on Ruby
 - **DevOps**: Docker, Kubernetes, GitHub Actions
 - **Databases**: PostgreSQL, MongoDB, SQLite
-- **Cloud**: AWS, Azure, Google Cloud
-- **ML Framework**: Tensorflow; Pytorch
+- **Cloud**: AWS, GCP; W&B ; HF
+- **ML Framework**: Tensorflow; Pytorch; Google Colab
 - **Knowledge-Base Management**: Confluence; Wiki
 
 ## 📈 GitHub Stats
