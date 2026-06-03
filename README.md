@@ -50,7 +50,7 @@ I build proprietary, domain-specific machine learning models that are applicatio
 - **Databases**: PostgreSQL, MongoDB, SQLite
 - **Cloud**: AWS, GCP; W&B ; HF
 - **ML Framework**: Tensorflow; Pytorch; Google Colab
-- **Knowledge-Base Management**: Confluence; Wiki
+- **Knowledge-Base Management**: Confluence; Wiki; Trello; Jira
 
 ## 📈 GitHub Stats
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminyzg&show_icons=true&theme=radical)
