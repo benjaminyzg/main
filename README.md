@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate developer, always eager to learn and build innovative solutions.
 
+## ℹ️ Overview
+
+## 📝 Description 
+
+
 ## 🚀 About Me
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
 - 👨‍💻 Working on open-source projects and contributing to the developer community.
