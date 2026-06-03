@@ -8,6 +8,8 @@ New to GitHub, and I'm trying to figure how to use this platform correctly and a
 ## 📝 Description 
 -Testing in Progress, please bear with us- I'm currently a (insert role and function) with (organisation). The domain and field that I'm currently working on (insert the area of specialized domain and knowledge). On a day to day basis, I does (function & work) in the department of (insert department).
 
+I build proprietary, domain-specific machine learning models that are application and industry-specific based on the published, scientific journal and model designed for highly sensitive industry and mission-critical application. Some of the constraints include; time-sensitivity; low-latency and very short conceptualisation to development to market timeframe.
+
 ## 🚀 About Me
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
 - 👨‍💻 Working on open-source projects and contributing to the developer community.
