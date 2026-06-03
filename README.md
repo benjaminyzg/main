@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 ## 🚀 About Me
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
 - 👨‍💻 Working on open-source projects and contributing to the developer community.
+- 🤿 Certified Recreational Scuba Diver
 - 🎓 Background in Computer Science and Software Engineering.
 - 🏴󠁳󠁬󠁷󠁿 Area of Interest: Medicine; Computer Science; Healthcare; Capital Market
 
@@ -25,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🛩️ Travelling (i.e. Leisure & Business)
 - 🤿 Scuba Diving (i.e. Recreational)
 - 📖 Reading/Exercising (i.e. Running; Cycling)
+- Hiking
 - 😴 Sleeping/Resting
 
 ## 🪧 Commercial Collaboration
