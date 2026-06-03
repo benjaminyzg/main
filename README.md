@@ -3,9 +3,10 @@
 Welcome to my GitHub profile! I'm a passionate developer, always eager to learn and build innovative solutions.
 
 ## ℹ️ Overview
+New to github, and I'm trying to figure how to use this platform correctly and appropriate for both work and testing. I believe that this is a tools that is necessary, or basic requirement for a lot of technology companies, particularly in the software development space doing CI/CD development. Some of respository might be configured and inappropriately configured and implemented -> do let me know via email.
 
 ## 📝 Description 
-
+-Testing in Progress, please bear with us-
 
 ## 🚀 About Me
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
