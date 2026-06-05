@@ -49,6 +49,11 @@ I build proprietary, domain-specific machine learning models that are applicatio
 ## 📛 Conferences/Talks
 - to be completed - 
 
+## 🗄️ Repository
+- 🤗    HuggingFace (HF)
+- ⚖️    Weights & Biases (W&B)
+- 👩🏻‍💻🎨  UX/UI Respo
+
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
 - **Frameworks**: React, Node.js, Django; Rails on Ruby
