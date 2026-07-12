@@ -11,10 +11,9 @@ New to GitHub, and I'm trying to figure how to use this platform correctly and a
 I build proprietary, domain-specific machine learning models that are application and industry-specific based on the published, scientific journal and model designed for highly sensitive industry and mission-critical application. Some of the constraints include; time-sensitivity; low-latency and very short conceptualisation to development to market timeframe.
 
 ## 🛠️ Currently Working On:-
-- Express.js
-- Next.js
-- Spring Boot
-- Spring IO
+- Express.js; Next.js; Node.js
+- Spring Boot;  Spring IO
+- 
 
 ## 🚀 About Me
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
