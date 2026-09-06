@@ -37,8 +37,7 @@ I build proprietary, domain-specific machine learning models that are applicatio
 
 ## 🪧 Commercial Collaboration
 - Open for commercial collaboration in the area of advisory and consultancy work for government; capital market; healthcare and sustainability.
-- Open to speak for a nominal fee in public international conference and forum.
-- 
+- Open to speak for a nominal fee at public international conference and forum.
 
 ## 🗂️ Academic Publications
 - to be completed - 
@@ -47,9 +46,9 @@ I build proprietary, domain-specific machine learning models that are applicatio
 - to be completed - 
 
 ## 🗄️ Repository
-- 🤗    HuggingFace (HF)
-- ⚖️    Weights & Biases (W&B)
-- 👩🏻‍💻🎨  UX/UI Respo
+- 🤗 HuggingFace (HF)
+- ⚖️ Weights & Biases (W&B)
+- 👩🏻‍💻🎨 UX/UI Respo
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
