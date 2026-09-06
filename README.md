@@ -13,7 +13,6 @@ I build proprietary, domain-specific machine learning models that are applicatio
 ## 🛠️ Currently Working On:-
 - Express.js; Next.js; Node.js
 - Spring Boot;  Spring IO
-- 
 
 ## 🚀 About Me
 - 🌱 Currently exploring **AI/ML** and **Blockchain** technologies.
