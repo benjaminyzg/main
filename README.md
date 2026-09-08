@@ -1,4 +1,4 @@
-# Hi there, I'm Benjamin 👋
+# Hi there, This is Benjamin Y. 👋
 
 Welcome to my GitHub profile! I'm a computer engineer by training, and now I'm trying to get my hand-on doing some development work, always eager to learn and build innovative solutions.
 
